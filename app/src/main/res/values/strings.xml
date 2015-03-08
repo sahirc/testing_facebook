@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">testing_facebook</string>
+    <string name="facebook_app_id">394798977351871</string>
+    <string name="get_started">get started</string>
+</resources>
